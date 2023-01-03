@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class>
+    <student>
+        <name> Manal </name>
+        <age> 20 </age>
+        <batch> 2207f1 </batch>
+        <semester> DISM </semester>
+        <timing> TTS 5-7 </timing>
+    </student>
+    <student>
+        <name> Neha </name>
+        <age> 20 </age>
+        <batch> 2207f1 </batch>
+        <semester> DISM </semester>
+        <timing> TTS 5-7 </timing>
+    </student>
+    <student>
+        <name> Amna </name>
+        <age> 12 </age>
+        <batch> 2207f1 </batch>
+        <semester> DISM </semester>
+        <timing> TTS 5-7 </timing>
+    </student>
+    <student>
+        <name> Maha </name>
+        <age> 23 </age>
+        <batch> 2207f1 </batch>
+        <semester> DISM </semester>
+        <timing> TTS 5-7 </timing>
+    </student>
+
+
+</class>
